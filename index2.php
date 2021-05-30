@@ -6,3 +6,4 @@ echo "this is the line from feature/test1";
 
 
 echo "commit 1 ";
+echo  "commit 2";
