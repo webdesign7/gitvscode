@@ -12,3 +12,5 @@ echo  'commit 3 a';
 
 
 echo "cherry pick into test2";
+
+echo "cherry pick 2 into test2";
